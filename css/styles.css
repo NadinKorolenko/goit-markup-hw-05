@@ -726,7 +726,7 @@ a {
  }
 
  .field-wrapper {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
  }
 
  .label-field {
@@ -780,7 +780,10 @@ a {
 
  }
 
- 
+ .field-wrapper-email,
+.field-wrapper-comment {
+  margin-bottom: 16px;
+}
 
 
  .comment-field {
